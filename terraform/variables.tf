@@ -7,7 +7,7 @@ variable "region" {
 variable "clusterName" {
   description = "The name of the EKS cluster"
   type        = string
-  default     = "mydevops.yashcanada.space"
+  default     = "mydevops"
 }
 
 
